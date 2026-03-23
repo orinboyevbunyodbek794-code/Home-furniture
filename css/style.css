@@ -20,7 +20,7 @@ nav {
   color: rgba(255, 255, 255, 1);
 }
 .a a:hover{
-    color: blue;
+  color:blue;
 }
 .icons {
   display: flex;
@@ -461,88 +461,82 @@ ul li p {
   font-size: 22px;
   padding-top: 10px;
 }
-.text-medium{
-    padding-bottom: 20px ;
-    border-bottom: 1px solid rgba(153, 153, 153, 1);
-
+.text-medium {
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(153, 153, 153, 1);
 }
 .text-medium p {
-    font-size: 16px;
-    padding: 20px 0px 20px 0px ;
+  font-size: 16px;
+  padding: 20px 0px 20px 0px;
 }
-.text-medium .img-circle{
-    display: flex;
-    gap: 10px ;
-    padding: 0px 0px 20px 0px ;
+.text-medium .img-circle {
+  display: flex;
+  gap: 10px;
+  padding: 0px 0px 20px 0px;
 }
-.text-medium select{
-    padding: 5px 15px ;
-    font-size: 22px;
-    color: rgba(153, 153, 153, 1);
+.text-medium select {
+  padding: 5px 15px;
+  font-size: 22px;
+  color: rgba(153, 153, 153, 1);
 }
-.text-medium button{
-    padding: 9px 25px ;
-    background-color: rgba(132, 44, 104, 1);
-    border-radius: 5px;
-    border: none;
-    margin-left: 30px ;
-    margin-bottom: 5px;
-    color: snow;
-    cursor: pointer;
-
+.text-medium button {
+  padding: 9px 25px;
+  background-color: rgba(132, 44, 104, 1);
+  border-radius: 5px;
+  border: none;
+  margin-left: 30px;
+  margin-bottom: 5px;
+  color: snow;
+  cursor: pointer;
 }
-.text-botton .ps{
-    display: flex;
-    justify-content:space-evenly;
-    margin: 8px 0px ;
+.text-botton .ps {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 8px 0px;
 }
-.text-botton .ps p{
-    font-size: 22px ;
-    padding: 4px 6px ;
-    cursor: pointer;
-
+.text-botton .ps p {
+  font-size: 22px;
+  padding: 4px 6px;
+  cursor: pointer;
 }
-.text-botton .ps p:hover{
-    background-color:rgba(229, 229, 229, 1);
+.text-botton .ps p:hover {
+  background-color: rgba(229, 229, 229, 1);
 }
-.text-botton p{
-    padding-bottom: 28px ;
-    font-size: 17.22px ;
-    border-bottom: 1px solid rgba(153, 153, 153, 1);
+.text-botton p {
+  padding-bottom: 28px;
+  font-size: 17.22px;
+  border-bottom: 1px solid rgba(153, 153, 153, 1);
 }
-.product-main .text-product h1{
-    width: 100%;
-    font-size: 48px;
-    text-align: center;
-    margin: 83px 0px 58px 0px ;
+.product-main .text-product h1 {
+  width: 100%;
+  font-size: 48px;
+  text-align: center;
+  margin: 83px 0px 58px 0px;
 }
-.product-main .kard-group{
-    display: flex;
-    margin: 0px 200px 120px 200px ;
-    gap: 40px ;
+.product-main .kard-group {
+  display: flex;
+  margin: 0px 200px 120px 200px;
+  gap: 40px;
 }
-.product-main .kard-group .kard{
-    width: 400px;
-
+.product-main .kard-group .kard {
+  width: 400px;
 }
-.product-main .kard-group .kard .sum{
-    display: flex;
-    justify-content: space-between;
-    padding: 25px 0px 25px 0px ;
-    align-items: center;
+.product-main .kard-group .kard .sum {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 0px 25px 0px;
+  align-items: center;
 }
-.product-main .kard-group .kard .sum span{
-    font-size: 22px ;
-    color: rgba(132, 44, 104, 1);
-
+.product-main .kard-group .kard .sum span {
+  font-size: 22px;
+  color: rgba(132, 44, 104, 1);
 }
-.product-main .kard-group .kard a{
-    display: block;
-    color: black;
-    margin: 27px 0px 5px 0px ;
+.product-main .kard-group .kard a {
+  display: block;
+  color: black;
+  margin: 27px 0px 5px 0px;
 }
-.category-main{
-    display: flex;
-    gap: 50px;
-
+.category-main {
+  display: flex;
+  gap: 50px;
 }
